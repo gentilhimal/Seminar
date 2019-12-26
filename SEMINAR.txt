@@ -1,6 +1,14 @@
-[1].
+[1]Sipser, Michael (2006). Introduction to the Theory of Computation, 2nd Edition. Course Technology Inc. ISBN 978-0-534-95097-2. Section 7.2: The Class P, pp. 256–263;.
 [2].https://www8.cs.umu.se/kurser/TDBA77/VT06/algorithms/BOOK/BOOK/NODE13.HTM
 [3]http://datastructurenalgorithms.blogspot.com/2013/11/topic-1-big-o-notation-and-complexity.html
 [4]http://www.cs.cornell.edu/courses/cs3110/2012sp/lectures/lec19-asymp/review.html
 [5]Nondeterministic Algorithms ROBERT W. FLOYD Carnegie Institute of Technology,* Pittsburgh, Pennsylvania
 [6]https://en.wikipedia.org/wiki/Nondeterministic_algorithm#/media/File:Difference_between_deterministic_and_Nondeterministic.svg
+[7]Stone 1972:8 states "This "machine" is an abstract mathematical model", also cf. Sipser 2006:137ff that describes the "Turing machine model". Rogers 1987 (1967):13 refers to "Turing's characterization", Boolos Burgess and Jeffrey 2002:25 refers to a "specific kind of idealized machine".
+[8] Erickson, Jeff. "Nondeterministic Turing Machines" (PDF). U. Illinois Urbana-Champaign. Retrieved 2019-04-07.
+[9]"P vs NP Problem | Clay Mathematics Institute". www.claymath.org.
+[10]Sipser, Michael (2006). Introduction to the Theory of Computation, 2nd Edition. Course Technology Inc. ISBN 978-0-534-95097-2. Section 7.2: The Class P, pp. 256–263;.
+[11] Kozen, Dexter C. (2006). Theory of Computation. Springer. p. 4. ISBN 978-1-84628-297-3.
+[12] Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran Univerity Press 
+[13] Thomas H. coremen, Charles E. Liserson, Ronald L. Rivest, Cliford Stlin Introduction to algorithms Second edition p966 -1003
+[14] Cook, S. A. (1971). The complexity of theorem-proving procedures. Proceedings of the Third Annual ACM Symposium on Theory of Computing - STOC 71. doi: 10.1145/800157.805047
