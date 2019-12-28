@@ -1,12 +1,12 @@
-[1]Sipser, Michael (2006). Introduction to the Theory of Computation, 2nd Edition. Course Technology Inc. ISBN 978-0-534-95097-2. Section 7.2: The Class P, pp. 256–263;.
-[2].https://www8.cs.umu.se/kurser/TDBA77/VT06/algorithms/BOOK/BOOK/NODE13.HTM
+[1] “Best, Worst, and Average-Case Complexity,” Department of Computing Science, Umeå University, 02-Jun-1997. [Online]. Available: https://www8.cs.umu.se/kurser/TDBA77/VT06/algorithms/BOOK/BOOK/NODE13.HTM. [Accessed: 08-Nov-2019].
+[2]Sipser, Michael (2006). Introduction to the Theory of Computation, 2nd Edition. Course Technology Inc. ISBN 978-0-534-95097-2. Section 7.2: The Class P, pp. 256–263;.
+
 [3]http://datastructurenalgorithms.blogspot.com/2013/11/topic-1-big-o-notation-and-complexity.html
 [4]http://www.cs.cornell.edu/courses/cs3110/2012sp/lectures/lec19-asymp/review.html
 [5]Nondeterministic Algorithms ROBERT W. FLOYD Carnegie Institute of Technology,* Pittsburgh, Pennsylvania
 [6]https://en.wikipedia.org/wiki/Nondeterministic_algorithm#/media/File:Difference_between_deterministic_and_Nondeterministic.svg
 [7] Erickson, Jeff. "Nondeterministic Turing Machines" (PDF). U. Illinois Urbana-Champaign. Retrieved 2019-04-07.
 [8]"P vs NP Problem | Clay Mathematics Institute". www.claymath.org.
-[9] Kozen, Dexter C. (2006). Theory of Computation. Springer. p. 4. ISBN 978-1-84628-297-3.
-[10] Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran Univerity Press 
-[11] Thomas H. coremen, Charles E. Liserson, Ronald L. Rivest, Cliford Stlin Introduction to algorithms Second edition p966 -1003
-[12] Cook, S. A. (1971). The complexity of theorem-proving procedures. Proceedings of the Third Annual ACM Symposium on Theory of Computing - STOC 71. doi: 10.1145/800157.805047
+[9] Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran Univerity Press 
+[10] Thomas H. coremen, Charles E. Liserson, Ronald L. Rivest, Cliford Stlin Introduction to algorithms Second edition p966 -1003
+[11] Cook, S. A. (1971). The complexity of theorem-proving procedures. Proceedings of the Third Annual ACM Symposium on Theory of Computing - STOC 71. doi: 10.1145/800157.805047
